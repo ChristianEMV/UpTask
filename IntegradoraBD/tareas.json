@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "6440892b6b428cda7bee3df7"
+  },
+  "nombre": "Base de Datos",
+  "descripcion": "Realizar la base de datos para el proyecto,",
+  "estado": true,
+  "fechaEntrega": {
+    "$date": "2023-05-15T00:00:00.000Z"
+  },
+  "prioridad": "Media",
+  "proyecto": {
+    "$oid": "644087b26b428cda7bee3dd8"
+  },
+  "completado": {
+    "$oid": "644059746dc1c957f2b12809"
+  },
+  "createdAt": {
+    "$date": "2023-04-20T00:36:59.789Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-20T00:38:38.925Z"
+  }
+}]

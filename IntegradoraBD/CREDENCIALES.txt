@@ -1,0 +1,14 @@
+mongodb Compass : mongodb+srv://christianmvl:admin@dbmern.x8vdy4n.mongodb.net/test
+
+1. Instalar los modules
+npm i
+
+2.Para correr el BackEnd
+npm run dev
+
+3.Para correr el FrontEnd
+npm run dev
+
+Usuario para iniciar directamente al sistema:
+correo: darkgoatmvl@gmail.com
+password: 123456

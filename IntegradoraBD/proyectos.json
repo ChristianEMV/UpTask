@@ -1,0 +1,76 @@
+[{
+  "_id": {
+    "$oid": "64403a7f8ff785b1d6c936ab"
+  },
+  "nombre": "Terminar la Integradora",
+  "descripcion": "Terminar lo que falta de la integradora",
+  "fechaEntrega": {
+    "$date": "2023-04-19T00:00:00.000Z"
+  },
+  "cliente": "Maximiliano Carsi",
+  "tareas": [],
+  "colaboradores": [
+    {
+      "$oid": "64402429917843368221fcf1"
+    }
+  ],
+  "creador": {
+    "$oid": "644039f58ff785b1d6c936a5"
+  },
+  "createdAt": {
+    "$date": "2023-04-19T19:01:19.906Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T19:01:44.552Z"
+  }
+},{
+  "_id": {
+    "$oid": "644087b26b428cda7bee3dd8"
+  },
+  "nombre": "Pagina Web de Servicio Medico IMMS",
+  "descripcion": "Se debera realizar una apgina web para el servicio medico IMMS donde uno podra registrarse y tambien sacar cita para una consulta.",
+  "fechaEntrega": {
+    "$date": "2023-11-15T00:00:00.000Z"
+  },
+  "cliente": "Jorge Ramos Calzada",
+  "tareas": [
+    {
+      "$oid": "6440892b6b428cda7bee3df7"
+    }
+  ],
+  "colaboradores": [
+    {
+      "$oid": "644039f58ff785b1d6c936a5"
+    }
+  ],
+  "creador": {
+    "$oid": "644059746dc1c957f2b12809"
+  },
+  "createdAt": {
+    "$date": "2023-04-20T00:30:42.287Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-20T00:42:40.372Z"
+  }
+},{
+  "_id": {
+    "$oid": "64408b406b428cda7bee3e43"
+  },
+  "nombre": "Diseños para movil de SIGAEL",
+  "descripcion": "Realizar los diseños de paginas para el proyecto SIGAEL",
+  "fechaEntrega": {
+    "$date": "2023-12-05T00:00:00.000Z"
+  },
+  "cliente": "Daniel Garcia Santiago",
+  "tareas": [],
+  "colaboradores": [],
+  "creador": {
+    "$oid": "644059746dc1c957f2b12809"
+  },
+  "createdAt": {
+    "$date": "2023-04-20T00:45:52.290Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-20T00:45:52.290Z"
+  }
+}]

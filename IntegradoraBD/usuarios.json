@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "64402429917843368221fcf1"
+  },
+  "nombre": "Christian Emmanuel",
+  "password": "$2b$10$C6XpGydSK.BbgmEA5HmolusMDQPQayArIe.yd.osZTXupmN8PTE4O",
+  "email": "bryam@utez.edu.mx",
+  "confirmado": true,
+  "token": "7dvuo3hkn9g1gud8qg5q",
+  "createdAt": {
+    "$date": "2023-04-19T17:26:01.168Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T17:26:01.168Z"
+  }
+},{
+  "_id": {
+    "$oid": "644039f58ff785b1d6c936a5"
+  },
+  "nombre": "Emmanuel",
+  "password": "$2b$10$AMEzABO2dsK5R9FPWtMbVOfIDyigSav0sxktLal/c26nVlsuV3lw6",
+  "email": "20193tn065@utez.edu",
+  "confirmado": true,
+  "token": "fm595rhqkgo1gude4pbe",
+  "createdAt": {
+    "$date": "2023-04-19T18:59:01.121Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T18:59:01.121Z"
+  }
+},{
+  "_id": {
+    "$oid": "644059746dc1c957f2b12809"
+  },
+  "nombre": "Christian",
+  "password": "$2b$10$4vikhLtgy2IQGmTiHE9Zbe/SVaj8GN.R8posb71mSBjMLrLeZPobe",
+  "email": "darkgoatmvl@gmail.com",
+  "confirmado": true,
+  "token": "oso3udt53vo1gudlqrur",
+  "createdAt": {
+    "$date": "2023-04-19T21:13:24.705Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T21:13:24.705Z"
+  }
+},{
+  "_id": {
+    "$oid": "6440cfff66269a8b9c01d0ff"
+  },
+  "nombre": "Sebastian",
+  "password": "$2b$10$/mIVLAwFw9Y3rlpcTa1UceorHdoI47vg/cw7Felc0G0MWZb1y8KSe",
+  "email": "sebas@gmail.com",
+  "confirmado": true,
+  "token": "jgatf8rva91gueiovph",
+  "createdAt": {
+    "$date": "2023-04-20T05:39:11.799Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-20T05:39:11.799Z"
+  }
+}]
